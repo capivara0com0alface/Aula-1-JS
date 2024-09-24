@@ -16,8 +16,7 @@ return (B+b)*h/2
 }
 console.log(areatrapezio(2,3,4))
 
-let nome=prompt('nome?');
-
-document.write(nome);
-
-parseInt(prompt('nome?'));
+function media(a,b,c){
+    return a+b+c/3
+}
+console.log(media(2,3,4))
