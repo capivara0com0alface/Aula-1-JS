@@ -10,8 +10,8 @@ return number3*number4;
 }
 console.log(areaQuarado(4,5));
 
-let areatrapezio=function(number){
-return
+let areatrapezio=function(number6,number7,number8){
+return number7+number6*number8/2;
 
 }
 console.log(areatrapezio )
