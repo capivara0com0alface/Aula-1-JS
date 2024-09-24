@@ -10,8 +10,8 @@ return number3*number4;
 }
 
 
-let areatrapezio=function(B,b,h,number2){
-return (B+b)*h/number2
+let areatrapezio=function(B,b,h){
+return (B+b)*h/2
 
 }
 console.log(areatrapezio(2,3,4))
