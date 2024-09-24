@@ -14,4 +14,4 @@ let areatrapezio=function(B,b,h,number2){
 return (B+b)*h/number2
 
 }
-console.log(areatrapezio )
+console.log(areatrapezio(2,3,4))
