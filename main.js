@@ -21,4 +21,4 @@ document.write()
 function media(a,b,c){
     return a+b+c/3
 }
-console.log(media(nome,nome,nome))
+console.log(media(a,b,c))
