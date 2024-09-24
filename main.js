@@ -8,7 +8,7 @@ function areaQuadrado(number3,number4){
 return number3*number4;
 
 }
-console.log(areaQuadrado(number3,number4));
+
 
 let areatrapezio=function(B,b,h,number2){
 return (B+b)*h/number2
